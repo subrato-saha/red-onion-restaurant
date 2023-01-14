@@ -1,0 +1,27 @@
+.order-complete img{
+    width: 100%;
+    border-radius: 30px;
+
+}
+
+.order-details{
+    background-color: rgb(235, 234, 234);
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.delivery-details{
+    background-color: white;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.order-details img{
+    width: 100px;
+    border-radius: 0;
+}
+
+.rider{
+    justify-content: center;
+    align-items: center;
+}

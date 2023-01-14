@@ -1,0 +1,25 @@
+.fooddetails{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foodimg{
+    width: 100%;
+}
+
+.button{
+    width: 120px;
+    border-radius: 50px;
+}
+
+.bottom-img img{
+    width: 120px;
+}
+
+.quantity{
+
+}
+
+.quantity input[type="text"] {
+    border: 1px solid;
+}

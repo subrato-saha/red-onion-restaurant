@@ -1,0 +1,22 @@
+.main-section{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.time-section{
+    margin-top: 50px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.current-page{
+    color: #f91944;
+    border-bottom: 5px solid #f91944;
+}
+.menus{
+    margin: 20px;
+}

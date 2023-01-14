@@ -1,0 +1,45 @@
+img{
+    width: 150px;
+}
+
+.cart-icon{
+    font-size: 20px;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: #f91944;
+}
+.header{
+    height: 10vh;
+    align-items: center;
+}
+
+.right{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.right button{
+    width: 120px;
+    border-radius: 50px;
+}
+
+@media only screen and (max-width: 576px) {
+    .header{
+        display: flex;
+    }
+    .left{
+        width: 50%;
+    }
+    .right {
+        width: 50%;
+        justify-content: space-around;
+    }
+}

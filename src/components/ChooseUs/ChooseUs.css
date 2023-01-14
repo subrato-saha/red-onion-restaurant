@@ -1,0 +1,27 @@
+.details{
+    display: flex;
+    margin-top: 10px;
+}
+.icon{
+    font-size: 20px;
+    height: 40px;
+    width: 40px;
+    background-color: #f91944;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-right: 10px;
+}
+.info{
+    width: 80%;
+}
+
+.choose-us img{
+    width: 100%;
+}
+
+.button{
+    color: #5278f7;
+    cursor: pointer;
+}
